@@ -1,0 +1,16 @@
+{
+  "name": "xrh",
+  "version": "0.0.4",
+  "description": "",
+  "main": "rh.js",
+  "bin": "./rh.js",
+  "scripts": {
+    "pub": "npm publish"
+  },
+  "dependencies": {
+    "glob": "^7.1.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
