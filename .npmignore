@@ -1,6 +1,6 @@
 # lib/
 # test/
-# node_modules/
+node_modules/
 # .vscode/
 # build/
 # src/containers
@@ -9,3 +9,4 @@ push.bat
 # *.md
 .gitignore
 # webpack.config.js
+app/
