@@ -1,6 +1,6 @@
 {
   "name": "xrh",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "xrh",
   "bin": {
     "xrh": "bin/www.js"
@@ -31,5 +31,19 @@
   "engines": {
     "node": "^12.20.0 || >=14"
   },
-  "author": "ruihuag"
+  "author": "ruihuag",
+  "main": "xrh.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanruihua/xrh.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guanruihua/xrh/issues"
+  },
+  "homepage": "https://github.com/guanruihua/xrh#readme"
 }
